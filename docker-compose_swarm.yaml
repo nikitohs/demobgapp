@@ -16,7 +16,7 @@ services:
 
         volumes:
 
-            - "/home/vagrant/bgapp/web:/var/www/html:ro"
+            - "/home/vagrant/demobgapp/web:/var/www/html:ro"
 
         networks:
 
