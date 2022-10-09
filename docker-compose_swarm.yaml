@@ -4,7 +4,7 @@ services:
 
     web:
 
-        image: nikitohs/niki:bg-web
+        image: nikitohs/niki:bgapp-web
 
         deploy:
 
